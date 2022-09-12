@@ -1,4 +1,4 @@
-# # IMF Project - Exploring Relationship Between CPI and Global Commodity Prices (PCPS)
+# IMF Project - Exploring Relationship Between CPI and Global Commodity Prices (PCPS)
 Analyzing public data available at https://data.imf.org/ to  explore relationship between Consumer Price Index (CPI) and Global Commodity Prices (PCPS)
 
 ## Consumer Price Index (CPI):
