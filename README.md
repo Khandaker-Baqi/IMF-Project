@@ -51,7 +51,7 @@ Unsupervised machine learning: K-means clustering
 5) Finding clusters in the data using k-means clustering and re-running linear regression model cluster wise
 
 ## Findings: 
-Despite having negative correlation during the years: 2010-2013, Overall CPI and Price of agricultural raw materials have had a positive correlation during the recent years (2014-2021).
-Although there is a positive correlation between the Overall CPI and Price of Agricultural Raw materials, the relationship is very week. Therefore, the rice of agricultural raw materials cannot be used to predict the future changes in Overall CPI variable.
+Despite having negative correlation during the years: 2010-2013, Overall CPI and Price of Agricultural Raw Materials have had a positive correlation during the recent years (2014-2021).
+Although there is a positive correlation between the Overall CPI and Price of Agricultural Raw materials, the relationship is very weak. Therefore, the Price of Agricultural Raw Materials cannot be used to predict the future changes in Overall CPI variable.
 
 ## [Final tableau story board](https://public.tableau.com/views/IMFProject-ExploringrelationshipsbetweenCPIandGlobalCommodityPrices/Story?:language=en-US&:display_count=n&:origin=viz_share_link)
